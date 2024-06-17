@@ -1,0 +1,2 @@
+The name of the file is a hidden parameter in the html form. Find the name of the file
+and then see it's content.
