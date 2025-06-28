@@ -1,5 +1,3 @@
-
-
 input_string = "e8dd=h>k"
 
 
